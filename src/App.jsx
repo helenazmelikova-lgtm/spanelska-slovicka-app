@@ -1,4 +1,5 @@
-import React, { useEffect, useMemo, useRef, useState } from "react";
+return (
+  <div className="container">import React, { useEffect, useMemo, useRef, useState } from "react";
 
 const vocabulary = {
   restaurace: [
@@ -563,5 +564,6 @@ function StatCard({ emoji, label, value }) {
     </Card>
   );
 }
-
+</div>
+);
 export default App;
